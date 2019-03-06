@@ -1,0 +1,26 @@
+{
+  "name": "jjj",
+  "version": "1.0.0",
+  "description": "greeter.js on rest api",
+  "main": "greeter.js",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "faker": "^4.1.0",
+    "node.js": "^0.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "sss"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cestlading/hello-world.git"
+  },
+  "author": "Jason",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cestlading/hello-world/issues"
+  },
+  "homepage": "https://github.com/cestlading/hello-world#readme"
+}
